@@ -1,0 +1,28 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+*.env
+
+# Playwright-specific
+test-results/
+playwright-report/
+blob-report/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
